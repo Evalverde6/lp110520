@@ -39,8 +39,7 @@ switch (opcion) {
         break;
     default:
         break;
-}        
-    var x = document.getElementById("Numero");
+}       
 
     function suma(x) {
         return x;
